@@ -1,0 +1,14 @@
+{
+    "name": "niels/flint-proto",
+    "description": "Prototyping package for Flint",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niels Steenman",
+            "email": "niels@flintmedia.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
